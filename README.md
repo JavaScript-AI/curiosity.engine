@@ -1,2 +1,2 @@
 # curiosity.engine
-An Static Analyzing Artificial Intelligence library that is designed to ask questions.
+A static analyzing artificial intelligence library that is designed to ask questions.
